@@ -1,0 +1,24 @@
+body {
+    background-color: #FFFAED;
+    font-family: "futura-pt", sans-serif;
+    
+}
+
+.font {
+    font-family: "futura-pt", sans-serif;
+}
+
+.navBottom {
+    border-bottom: 5px solid #492502;
+    
+}
+
+/* font-family: "futura-pt", sans-serif;
+font-weight: 400; book
+font-weight: 600; Demi
+font-weight: 700; heavy
+font-style: normal; */
+
+/* font-family: "futura-pt-bold", sans-serif;
+font-weight: 700;
+font-style: normal; */
