@@ -8,8 +8,8 @@ I like the use of a gif for the header for the first page. The design is nice, w
 
 Github not working for some reason, need help from TA, putting this here for a just in case Aidan forgets.
 
-Github: Not working
-Vercel: Cant do without Github
+Github: https://github.com/Girthstorm/YounathanAInfluentialPersonWebsite
+Vercel: https://younathan-a-influential-person-website.vercel.app
 Figma: https://www.figma.com/file/DbLVWRXN81IPsk9UeTgMom/Most-Influential-Tyler?type=design&node-id=0%3A1&mode=design&t=ssIW7GfMlABwsRN0-1
 
 If you want the full experience with the video please replace the picture TylerTheGoat.jpg with this file from drive: https://drive.google.com/file/d/1kPLLS1M66vmRjeCXy_U9ioqbm6tMOxT6/view?usp=sharing
